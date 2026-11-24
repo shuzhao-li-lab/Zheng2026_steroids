@@ -4,7 +4,7 @@ This is the repository for data analysis in:
 Zheng, Yu and Li. Xenobiotic enzymes contribute significantly to human steroid metabolome. 
 
 Input data include the main feature tables. 
-Feature tables from public data can be generated using Asari using the version and parameters in this paper. 
+Feature tables from time course, liver microsome experiments and public data can be generated using Asari with the version and parameters stated in the paper. 
 
 All analysis notebooks are in code repository.
 Input data and the analysis output is posted as a release of this repository. 
